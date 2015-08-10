@@ -23,8 +23,8 @@
     android:layout_width="@dimen/notification_panel_width"
     android:layout_height="@dimen/status_bar_header_height"
     android:layout_gravity="@integer/notification_panel_layout_gravity"
-    android:paddingStart="@dimen/notification_side_padding"
-    android:paddingEnd="@dimen/notification_side_padding"
+    android:paddingStart="@dimen/notification_header_side_padding"
+    android:paddingEnd="@dimen/notification_header_side_padding"
     android:baselineAligned="false"
     android:elevation="@dimen/status_bar_expanded_header_elevation"
     android:background="@drawable/notification_header_bg"
@@ -77,7 +77,7 @@
             >
             <include layout="@layout/system_icons" />
         </FrameLayout>
-        <TextView android:id="@+id/battery_level"
+        <com.android.systemui.BatteryLevelTextView android:id="@+id/battery_level_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
