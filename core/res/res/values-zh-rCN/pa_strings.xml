@@ -26,9 +26,9 @@
   <string name="reboot_confirm" product="tablet">你的平板将会重启。</string>
   <string name="reboot_confirm" product="default">你的手机将会重启。</string>
   <string name="reboot">重启</string>
-  <string name="reboot_recovery">Recovery</string>
-  <string name="reboot_bootloader">Bootloader</string>
-  <string name="reboot_download">Download</string>
+  <string name="reboot_recovery">恢复模式</string>
+  <string name="reboot_bootloader">引导模式</string>
+  <string name="reboot_download">下载模式</string>
   <string name="permlab_setKeyguardWallpaper">设置锁屏壁纸</string>
   <string name="permdesc_setKeyguardWallpaper">允许应用改变的你的锁屏壁纸。</string>
   <string name="setting_confirmation_always">总是</string>
