@@ -44,7 +44,7 @@
   <string name="battery_saver_notification_action_text_short">关闭</string>
   <string name="accessibility_quick_settings_immersive_mode_on">沉浸模式开启</string>
   <string name="accessibility_quick_settings_immersive_mode_off">沉浸模式关闭</string>
-  <tring name="accessibility_quick_settings_immersive_mode_changed_on">沉浸模式开启</string>
+  <string name="accessibility_quick_settings_immersive_mode_changed_on">沉浸模式开启</string>
   <string name="accessibility_quick_settings_immersive_mode_changed_off">沉浸模式关闭</string>
   <string name="quick_settings_immersive_mode_label">沉浸模式</string>
   <string name="quick_settings_immersive_mode_detail_hide_all">隐藏导航栏和状态栏</string>
